@@ -26,9 +26,9 @@ div {
 }
 
 div > img {
-    height: 300px;
-    margin: 35px;
-    margin-bottom: 25px;
+    height: 344px;
+    margin: 15px;
+    margin-bottom: 15px;
     border-radius: 10px;
 }
 
